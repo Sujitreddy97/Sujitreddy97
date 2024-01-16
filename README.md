@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Prison Escape-2D<br>🌱 I’m currently learning Unity and Game Development<br>💬 Ask me about Unity, C#, C++
+🔭 I’m currently working on Observer Pattern Eventful Escape <br>🌱 I’m currently learning Unity and Game Development<br>💬 Ask me about Unity, C#, C++
 
 
 ## 🌐 Socials:
